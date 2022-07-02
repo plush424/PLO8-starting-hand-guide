@@ -2,6 +2,8 @@
 Hutchinson's Omaha Hi/Lo Point System (Starting Hand Strength)
 High hand (play it as 20pt): 10+ lowest card AND
 One of following: (Pair and suited)  or (2 pair) or (double suited)
+Enter hands in the format, lowest to highest, with suit behind the card value. 
+e.g(Ad 2d 3h 4s = Ace of diamonds, 2 of diamonds, 3 of hearts, 4 of spades)
 
 Creator: Brian Ho (plush424)
 '''
