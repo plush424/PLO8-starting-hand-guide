@@ -3,7 +3,7 @@ Hutchinson's Omaha Hi/Lo Point System (Starting Hand Strength)
 High hand (play it as 20pt): 10+ lowest card AND
 One of following: (Pair and suited)  or (2 pair) or (double suited)
 
-Creator: plush424
+Creator: Brian Ho (plush424)
 '''
 
 # A = 1, J = 11, Q=12, K=13, for the sake of this program
