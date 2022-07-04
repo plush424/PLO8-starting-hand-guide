@@ -8,7 +8,6 @@ e.g(Ad 2d 3h 4s = Ace of diamonds, 2 of diamonds, 3 of hearts, 4 of spades)
 Creator: Brian Ho (plush424)
 '''
 
-# A = 1, J = 11, Q=12, K=13, for the sake of this program
 
 def main():
     starting_hand = input("Input hand: ")
